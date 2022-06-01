@@ -5,7 +5,7 @@
 
 *R Soorya Narayanan*
 
-So this week I was able to learn and use:
+During the past week I was able to learn and use:
 > - [x] git (I have the git installed in Ubuntu and use it alongside `VS code` software).
 > - [x] github 
 > - [x] markdown
